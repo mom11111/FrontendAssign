@@ -1,0 +1,19 @@
+.sidebar{
+  position: fixed;
+  box-sizing: border-box;
+  border:0.1em solid black;
+  right:0px;
+  height:100%;
+  width:40%;
+  margin-top: -19.5px;
+}
+.frame{
+  box-sizing: border-box;
+  border: 0.1em solid black;
+  width:98%;
+  margin-right: auto;
+  margin-left: auto;
+  height: auto;
+  margin-top:10px;
+  text-align: center;
+}
